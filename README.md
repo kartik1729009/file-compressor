@@ -57,8 +57,8 @@ Ghostscript parameters differ for each level to achieve the desired output.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/file-compressor.git
-cd FILE-COMPRESSOR
+git clone https://github.com/kartik1729009/file-compressor.git
+cd fileCompressor
 
 # Frontend
 cd frontend
